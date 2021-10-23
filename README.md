@@ -6,11 +6,4 @@ An algorithm is in place that will compare all the players to one another - usin
 
 
 CODE:
-Java code that incorporated:
-Inheritance
-Intefaces (Comparable)
-Collections (HashMap, List, ArrayList, etc.)
-Classes
-Objects
-Methods
-Constructors
+Java code that incorporated Inheritance, Intefaces (Comparable), Collections (HashMap, List, ArrayList, etc.), Classes, Objects, Methods, and Constructors
